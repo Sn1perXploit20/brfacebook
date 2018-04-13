@@ -1,5 +1,5 @@
 # brfacebook
-crack password facebook account wirth bruteforce method
+crack password facebook account with bruteforce method
 ## How to install?
 ### Step 1
 type `sudo su` and enter your password to get root access 
